@@ -22,7 +22,7 @@ def show_youngest_student(students):
 
 students_list = []
 
-with open("Lab/Lab8-1/students.txt", "r", encoding="utf-8") as file:
+with open("Lab8/Lab8-1/students.txt", "r", encoding="utf-8") as file:
     for line in file:
         line = line.strip()
         if line:

@@ -37,7 +37,7 @@ def save_inventory(file_path, products):
     print("บันทึกข้อมูลลงไฟล์เรียบร้อยแล้ว!")
 
 
-file_path = "Lab/Lab8-5/inventory.txt"
+file_path = "Lab8/Lab8-5/inventory.txt"
 # อ่านข้อมูลสินค้า
 inventory = load_inventory(file_path)
 

@@ -21,7 +21,7 @@ def show_max_value_product(products):
 products_list = []
 
 
-with open("Lab/Lab8-2/products.txt", "r") as file:
+with open("Lab8/Lab8-2/products.txt", "r") as file:
         for line in file:
             line = line.strip()
             if line:
