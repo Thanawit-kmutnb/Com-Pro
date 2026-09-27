@@ -1,0 +1,4 @@
+Pen,15,100
+Notebook,50,30
+Keyboard,1500,2
+Monitor,4500,1
