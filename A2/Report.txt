@@ -1,0 +1,5 @@
+Week 1 Report : 6901012610501 ธนวิชญ์ สำแดง
+
+1. สร้าง Class Product เพื่อเก็บข้อมูลสินค้า (name, price, stock)
+2. สร้าง Class Cashier สำหรับจัดการฐานข้อมูลสินค้าด้วย Dictionary
+3. ทดสอบการเช็กสต็อกเบื้องต้นด้วยฟังก์ชัน check_stock()
